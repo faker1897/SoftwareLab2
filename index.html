@@ -102,14 +102,14 @@
         </div>
         <form>
             <fieldset>
+                <legend>Comment/Question</legend>
                 <div>
-                    <legend>Comment/Question</legend>
                     <textarea></textarea>
                     <input type="button" value="submit">
                 </div>
                 <div>
                     <label for="APP">Choose a APP to hold a meeting:</label>
-                    <input list="APP" type="text">
+                    <input id="APP" list="APP" type="text">
                     <datalist id="APP">
                         <option value="ZOOM"></option>
                         <option value="DINGDING"></option>
@@ -126,7 +126,7 @@
                     </select>
                 </div>
                 <label for="date">Choose a date to hold the meeting</label>
-                <input type="date">
+                <input type="date" id="date">
 
             </fieldset>
         </form>
