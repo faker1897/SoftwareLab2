@@ -1,6 +1,6 @@
 Fill in the passphrases here.
 Question 1 Passcode: WongAvery
-Question 2 Passcode:Scavenger Hunt
+Question 2 Passcode:iHateC++
 Question 3 Passcode: HTMLRules
 Question 4 Passcode: JavaScriptRocks
 Question 5 Passcode:ShraviBeatsReact
